@@ -1,3 +1,3 @@
-# Using Genetic Algorithm to solve a maze
+# Artificial Intelligence - Using Genetic Algorithm to Solve a Maze
 
-![](https://github.com/mauriciovieiraifc/MazeGeneticAlgorithm/blob/master/maze.png)
+![Maze](https://github.com/mauriciovieiraifc/Maze-Genetic-Algorithm/blob/master/maze.png)
